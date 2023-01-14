@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anurag247200
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python 3
+- 🌱 My Skills- Java, Python and C programming language 
 - 💞️ I’m looking to collaborate on multiple Project
 
 <!---
